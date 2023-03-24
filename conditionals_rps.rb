@@ -27,3 +27,4 @@ elsif outcome == "lost"
 elsif outcome == "tied"
   puts "You tied!"
 end
+
