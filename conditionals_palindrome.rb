@@ -16,3 +16,5 @@
 # true
 
 p "Enter one word"
+input = gets.chomp.downcase.split(" ").join("")
+p input == input.reverse
